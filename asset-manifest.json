@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/advicereact/static/css/main.3153b44c.css",
+    "main.js": "/advicereact/static/js/main.f85b13da.js",
+    "static/js/787.c0e236f3.chunk.js": "/advicereact/static/js/787.c0e236f3.chunk.js",
+    "static/media/twitter.avif": "/advicereact/static/media/twitter.05b51f4f60540c6ef61d.avif",
+    "index.html": "/advicereact/index.html",
+    "main.3153b44c.css.map": "/advicereact/static/css/main.3153b44c.css.map",
+    "main.f85b13da.js.map": "/advicereact/static/js/main.f85b13da.js.map",
+    "787.c0e236f3.chunk.js.map": "/advicereact/static/js/787.c0e236f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3153b44c.css",
+    "static/js/main.f85b13da.js"
+  ]
+}
